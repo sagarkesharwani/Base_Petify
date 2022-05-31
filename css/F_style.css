@@ -1,0 +1,8 @@
+.hero{
+    background-size:cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    background-image: url(IMAGES/DD5.jpg);
+}

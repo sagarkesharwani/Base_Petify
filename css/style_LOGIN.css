@@ -1,0 +1,159 @@
+
+body{
+
+    padding:0;
+    background:#efefef;
+    font-size :16px;
+    color:#777;
+    font-family :Arial, Helvetica, sans-serif;
+    font-weight :600;
+    background-image :url(group.jpg);
+    box-sizing :border-box;
+    background-position :center;
+    background-size: cover;
+    overflow: hidden;
+
+
+}
+#login-box{
+    position:relative;
+    margin:5% auto;
+    height :450px;
+    width :700px;  
+    background:#fff;
+    box-shadow :0 2px 4px rgba(1,0,0,0.8);
+
+}
+.login-left{
+    position:absolute;
+    height:450px;
+    width:350px;
+    padding:50px;
+    text-align :center;
+    box-sizing: border-box;
+    background-position:center;
+    background-size: cover;
+   background-image: url(PUG1.jpg) ;
+   
+}
+h1{
+    
+    font-size:37px;
+    color:whitesmoke; 
+    text-align :center;
+    padding :-10px;
+    margin-bottom: 150px;
+    /* background-color:yellow; */
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input[type="text"],input[type="password"]
+
+{
+    display :block;
+    box-sizing: border-box;
+
+   margin-bottom: 25PX;
+    width:250px;
+    height:35px;
+    border-radius :10px;
+   
+    font-family :sans-serif;
+    font-size :15px;
+    transition:0.8s ease;
+    background :blanchedalmond;
+}
+
+
+input[type="submit"]
+{
+    background:#dd4b39;
+    height :35px;
+    width:100px;
+    margin-bottom :50px;
+    border-radius :10px;
+    padding: 5px;
+    float: left;
+    font-family :sans-serif;
+    text-transform: uppercase;
+    transition: 0.2s ease;
+    cursor :pointer;
+
+}
+
+
+input.signup{
+
+    margin-bottom :30px;
+    background:#dd4b39;
+    width:100px;
+    height:35px;
+    float: right;
+    border-radius :10px;
+    font-family :sans-serif;
+    color :white;
+    transition: 0.4s ease;
+    cursor :pointer;
+}
+
+input[type="submit"]hover,input[type="submit"]focus{
+    transition: 0.2s ease;
+    background:seagreen;
+margin-bottom: 45px;}
+
+    .login-right{
+        margin-bottom: 75px;
+        height :450px;
+        width :350px;
+        padding:60px;
+        text-align :center;
+        background-position: center;
+        background-size: cover;
+        box-sizing: border-box;
+        background-image: url(PUG.jpg);
+
+      
+        position:absolute;
+        
+       
+        top :0;
+        right: 0;
+        
+    }
+
+    .signin{
+            margin-bottom: 70px;
+            height: 110px;
+            font-size: 25px;
+            font-family:sans-serif;
+            box-sizing :border-box;
+            display: block;
+            width :250px;
+            color:white;
+        
+            right:10px;
+            font-weight :500px;
+            text-align :center;
+
+    }
+    button.social{
+        margin-bottom :25px;
+        width:250px;
+        height:38px;
+        border-radius :10px;
+        font-family :sans-serif;
+        color :#fff;
+        transition: 0.4s ease;
+        cursor :pointer;
+
+    }
+    .facebook{
+    background :#32508e;
+    }
+    .Google{
+        background:#dd4b39;
+    }
+
+        
+  

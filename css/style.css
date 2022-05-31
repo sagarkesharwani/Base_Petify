@@ -1,0 +1,67 @@
+*{margin: 0;box-sizing: border-box;padding: 0;}
+.carousel-inner img{
+    width:100%;
+    height:800px;
+    
+}
+.aboutimg{
+    width: 100%;
+    height: 250px!important;
+}
+.carousel-caption{
+    color:gray;
+}
+.imgg{
+    height: 400px !important;
+    width:100%;
+}
+.text-center{
+    color:red;
+    /* height: 60px;
+    background:black;
+    font-style: italic;
+    font-size: 50PX ;
+    font-weight: bold; */
+    
+}
+.txtc{
+    color:white;
+    height: 45px;
+    /* background:black; */
+    font-style: sans-serif;
+    font-size: 35PX ;
+    font-weight: bold;
+
+}
+.imkg{
+
+    height: 280px !important;
+    width: 100%;
+    /* margin-right: auto; */
+}
+.xop{
+    /* background:white; */
+    color:white;
+}
+
+
+.nav-link{
+    /* font-weight:bold;     */
+}
+
+.lgbg{
+    background: white;
+}
+
+
+
+
+
+
+.username{
+    color:purple;
+    font-size: larger;
+}
+.checked {
+   color: orange !important;
+}

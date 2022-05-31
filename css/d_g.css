@@ -1,0 +1,107 @@
+.txtc{
+    color:white;
+    height: 45px;
+    /* background:black; */
+    font-style: sans-serif;
+    font-size: 35PX ;
+    font-weight: bold;
+
+}
+
+body{
+    overflow-x: hidden;
+    
+}
+
+.imkg{
+
+    height: 280px !important;
+    width: 100%;
+    /* margin-right: auto; */
+}
+.xop{
+    background:white;
+    color:black;
+    
+}
+
+
+.doggy{
+    background-image: url(IMAGES/gpp.jfif);
+    background-color: bisque !important;
+}
+.nav-link{
+    /* font-weight:bold;     */
+}
+
+.lgbg{
+    background: white;
+}
+
+.username{
+    color:purple;
+    font-size: larger;
+}
+.checked {
+   color: orange !important;
+}
+
+.doggy{
+
+    background-image: url('images/dabb.JPG');
+}
+
+.product{
+    border: 1px solid #eaeaec;
+    margin: -1px 19px 3px -1px ;
+    padding: 10px;
+    text-align: center;
+    background-color: #efefef;
+}
+table, th, tr{
+    text-align: center;
+   
+}
+.title2{
+    text-align: center;
+    color:gray;
+    background-color: #efefef;
+    padding: 12%;
+    font-weight: bolder;
+    background-repeat: repeat-x;
+    background-image: url(../IMAGES/cart_bg.JPG);
+    background-size: 650px 400px;
+}
+.btn.btn-danger{
+    margin-left: 50px;
+    border-radius: 0px
+
+
+}
+.table-responsive{
+    background-color:ghostwhite;
+}
+h2{
+    text-align: center;
+    color: #66afe9;
+    background-color: #efefef;
+    padding: 2%;
+}
+h3{
+    
+}
+table th{
+    background-color: #efefef;
+    height: 70px;
+    font-weight:bold;
+}
+th{
+    font-size: 85px;
+  }
+
+
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
